@@ -1,7 +1,7 @@
 # ios-space-age-obj-challenge
 
 ### Challenge
-Your challenge today is to write an Objective-C program that, given an age in seconds, can calculate how old someone would be on:
+Your challenge today is to write an Objective-C program that, given an age in seconds, can calculate how old someone would be on each planet. Create a class with an init to determine the amount of seconds for each planet. The starter project has Objective-C tests already, run the tests to see if they pass. 
 
 Earth: orbital period 365.25 Earth days, or 31557600 seconds
 
