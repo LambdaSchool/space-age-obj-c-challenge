@@ -13,6 +13,7 @@
 		2215352622DF0AFE000D037F /* SpaceAge.m in Sources */ = {isa = PBXBuildFile; fileRef = 2215352522DF0AFE000D037F /* SpaceAge.m */; };
 		229BFCE422DF1C1400CA10D8 /* SpaceAgeObjCTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 229BFCE322DF1C1400CA10D8 /* SpaceAgeObjCTests.m */; };
 		22B567AB22DF254A0019E938 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 22B567AA22DF254A0019E938 /* MainMenu.xib */; };
+		FE65F02924BF5ED80015C935 /* LSISpaceAge.m in Sources */ = {isa = PBXBuildFile; fileRef = FE65F02824BF5ED80015C935 /* LSISpaceAge.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +40,8 @@
 		2215352522DF0AFE000D037F /* SpaceAge.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SpaceAge.m; sourceTree = "<group>"; };
 		229BFCE322DF1C1400CA10D8 /* SpaceAgeObjCTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpaceAgeObjCTests.m; sourceTree = "<group>"; };
 		22B567AA22DF254A0019E938 /* MainMenu.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainMenu.xib; sourceTree = "<group>"; };
+		FE65F02724BF5ED80015C935 /* LSISpaceAge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSISpaceAge.h; sourceTree = "<group>"; };
+		FE65F02824BF5ED80015C935 /* LSISpaceAge.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSISpaceAge.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				2215351022DF0822000D037F /* SpaceAgeObjC.entitlements */,
 				2215350822DF0822000D037F /* Assets.xcassets */,
 				2215350D22DF0822000D037F /* Info.plist */,
+				FE65F02724BF5ED80015C935 /* LSISpaceAge.h */,
+				FE65F02824BF5ED80015C935 /* LSISpaceAge.m */,
 			);
 			path = SpaceAgeObjC;
 			sourceTree = "<group>";
@@ -202,6 +207,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2215350F22DF0822000D037F /* main.m in Sources */,
+				FE65F02924BF5ED80015C935 /* LSISpaceAge.m in Sources */,
 				2215352622DF0AFE000D037F /* SpaceAge.m in Sources */,
 				2215350722DF081F000D037F /* AppDelegate.m in Sources */,
 			);
